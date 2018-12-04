@@ -1,0 +1,57 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	/*scroll-behavior: smooth;*/
+}
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#back {
+	background-image: url("../images/background1.png");
+	background-position: fixed;
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+#poring {
+
+	height: 100px;
+	width: 100px;
+}
+
+
+#poring1 {
+	margin-left: 20rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring2 {
+	margin-left: 10rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring3 {
+	margin-left: 17rem;
+	height: 100px;
+	width: 100px;
+}
+
+
+
+
+
+

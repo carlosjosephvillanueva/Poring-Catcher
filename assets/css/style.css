@@ -1,0 +1,234 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	/*scroll-behavior: smooth;*/
+}
+
+
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+#back {
+	background-image: url("../images/background1.png");
+	background-position: fixed;
+	height: 100vh;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+
+.text-center {
+	font-family: 'Gamja Flower', cursive;
+	font-size: 60px;
+	color: #3b1313;
+}
+
+.row {
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+.text {
+	margin-bottom: 5rem;
+	font-weight: bold;
+
+}
+
+
+#poring1 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 20rem;
+	height: 100px;
+	width: 100px;
+}
+
+
+#poring2 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 24rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring3 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 5rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring4 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 23rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring5 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 24rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring6 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 20rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring7 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 30rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring8 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 13rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring9 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 10rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring10 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 35rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring11 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 20rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring12 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 3rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring13 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-left: 2rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring14 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 100px;
+}
+
+#poring15 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 100px;
+}
+
+
+#poring16 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100px;
+	width: 100px;
+}
+
+#poring17 {
+	background: none;
+	border-radius: 30%;
+	background-image: url("../images/poring.gif");
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin-right: 4rem;
+	height: 100px;
+	width: 100px;
+}
+
+#poring {
+	height: 20rem;
+	width: 20rem;
+	margin-left: 33rem;
+	display: none;
+}
